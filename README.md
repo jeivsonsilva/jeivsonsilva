@@ -1,7 +1,7 @@
 ### Olá, sou o Jeivson Silva 👋
 
-- 🔭 Hoje estudo Análise e Desenvolvimento de sistemas.
-- 🌱 Estou aprendendo algumas linguagens focado no Front-end.
+- 🔭 Formado em Análise e Desenvolvimento de sistemas.
+- 🌱 Estudando.
 - 📫 Meu contato: jeivsonhs@outlook.com
 
 <div align="center">
